@@ -3,5 +3,5 @@
 3. open a new terminal,
    run
    --> docker ps
-   copy the names.
+ 4. copy the names.
    --> docker stop <NAMES>
